@@ -1,0 +1,4 @@
+Numero de venta: venta2
+Fecha de venta: 27/06/2024
+Edad del cliente: 38
+Numero de patente: yu8909yu

@@ -1,0 +1,4 @@
+Numero de venta: venta1
+Fecha de venta: 20/05/2024
+Edad del cliente: 25
+Numero de patente: WE7890OP
